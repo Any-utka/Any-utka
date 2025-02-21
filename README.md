@@ -1,8 +1,14 @@
 # Hi there 👋
-<img src="https://imgur.com/aacAi9z.png" height="200" width="200">  
+<img src="https://imgur.com/aacAi9z.png" height="213" width="168">  
 
 ## 💬 About me :  
-My name is Dotsen Anna, I am a USM student. I am studying the specialty "applied computer science".
+My name is Associate Professor Anna, I am a USM student. I'm studying for a degree in Applied Computer Science.
+
+I am very sociable, I like new friends.
+
+
+I like to go out and learn new things. 
+
 ## 🎮 My hobbies :
 1. I like to read books, I prefer different genres.
 2. I like to spend time with my family, we watch movies or cartoons together, play board games and have fun 🧩 🎲.
