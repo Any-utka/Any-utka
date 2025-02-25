@@ -2,7 +2,7 @@
 <img src="https://imgur.com/aacAi9z.png" height="213" width="168">  
 
 ## 💬 About me :  
-My name is Associate Professor Anna, I am a USM student. I'm studying for a degree in Applied Computer Science.
+My name is Anna, I am a USM student. I'm studying for a degree in Applied Computer Science.
 
 I am very sociable, I like new friends.
 
